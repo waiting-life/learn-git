@@ -4,3 +4,9 @@ function one() {
 function two() {
   console.log('第二天')
 }
+function three() {
+  console.log('第三天')
+}
+function four() {
+  console.log('第四天')
+}
