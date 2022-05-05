@@ -13,3 +13,6 @@ function four() {
 function six() {
   console.log('第六天')
 }
+function five() {
+  console.log('第五天')
+}
